@@ -1,5 +1,6 @@
 
 CipherCalci — Unlock the power of logic and numbers with a sleek, multi-theme calculator designed for coders, students, and logic enthusiasts alike.
+https://shithanth.github.io/CipherCalci/
 
 🚀 Features
 Animated Truth Tables
