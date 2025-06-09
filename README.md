@@ -13,9 +13,9 @@ Choose from five beautiful, coordinated themes:
 Choose from five beautiful, coordinated themes:
 
 Light (default)
-Dark
-Ocean
-Forest
+Dark,
+Ocean,
+Forest,
 Sunset
 Plus, automatic system preference detection enables dark mode on supported devices.
 
